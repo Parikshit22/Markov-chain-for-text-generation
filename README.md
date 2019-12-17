@@ -9,4 +9,4 @@ Data Prepration Part:-
     Data train on runtime only, so no test data.
 
 Model Planning:-
-  We'll use markov model, the best part about the markov model is that 
+  We'll use markov model, the best part about the markov model is that the future state depends only on current state, in witch there are   two states one is transmission probalility and other is emission probibility. Here we select the k end letters to predict the next         letter 
